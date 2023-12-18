@@ -1,0 +1,9 @@
+/.ipynb_checkpoints
+/data
+/dataset
+/models
+/ocr_dataset
+/pipeline.ipynb
+/src
+/weights
+/yolov8n.pt

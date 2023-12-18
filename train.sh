@@ -1,0 +1,1 @@
+python train.py --url "http://www.iapr-tc11.org/dataset/ICDAR2003_RobustReading/TrialTrain/scene.zip" --data_dir ./data
