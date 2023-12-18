@@ -4,6 +4,6 @@
 /models
 /ocr_dataset
 /pipeline.ipynb
-/src
+*.pyc
 /weights
 /yolov8n.pt
